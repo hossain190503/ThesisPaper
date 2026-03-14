@@ -19,6 +19,12 @@ Based on the provided document, the Density Functional Theory (DFT) analysis of 
 ### Electronic property of CsGeIBr2
 
 The electronic structure analysis confirms the semiconducting nature of $CsGeIBr_2$, which is visualized through the band structure and Density of States (DOS).
+
+![electric1](https://github.com/hossain190503/ThesisPaper/blob/main/elec1.png?raw=true)
+
 - Bandgap Characteristics: The material possesses a direct bandgap of 1.190 eV. The fact that the conduction band minimum (CBM) and valence band maximum (VBM) occur at the same k-points is critical for efficient light absorption and reduced recombination.
+
+![elctric2](https://github.com/hossain190503/ThesisPaper/blob/main/elec2.png?raw=true)
+  
 - Orbital Contributions: As shown in Fig. 3(a) and Fig. 3(b), the valence band is predominantly formed by $I\text{-}5p$ and $Br\text{-}4p$ orbitals, while the conduction band is mainly composed of $Ge\text{-}4p$ states.
 - Structural Role of Cesium: The analysis indicates that $Cs$ functions primarily as a structural stabilizer rather than an active electronic contributor, as its orbitals ($Cs\text{-}6s$) show minimal presence near the Fermi level
