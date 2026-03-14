@@ -61,3 +61,10 @@ The following table summarizes the performance metrics of the $CsGeIBr_2$-based 
 ![eqe](https://github.com/hossain190503/ThesisPaper/blob/main/eqe.png?raw=true)
 
 The SCAPS-1D simulations for the optimized $CsGeIBr_2$ configuration yielded some notably high performance metrics. The power conversion efficiency ($PCE$) reached a peak of 30.24%, supported by a short-circuit current density ($J_{SC}$) of 39.07 mA/cm² and a fill factor ($FF$) of 85.47%. An open-circuit voltage ($V_{OC}$) of 0.906 V was also recorded, which appears to be quite competitive for a lead-free absorber material.While these figures suggest that $CsGeIBr_2$ has the theoretical potential to rival traditional lead-based cells, they likely represent a "best-case" scenario under idealized numerical conditions. It’s worth noting that the high $PCE$ of over 30% is a remarkable result for a simulation; however, transitioning this into a physical device will likely introduce interface challenges or material instabilities that a one-dimensional model might not fully capture. Nevertheless, these results provide a strong baseline for moving toward experimental validation.
+
+### Machine learning result
+#### Performance forecasting via machine learning
+
+
+
+Analysis of the absorber layer parameters indicates that device efficiency is most sensitive to doping concentration, followed by layer thickness, while remaining relatively stable under minor bandgap fluctuations. The high dependency on doping highlights the importance of precise charge carrier management to maximize $V_{OC}$ without inducing excessive recombination. Meanwhile, the thickness optimization reflects a critical trade-off between optical absorption and carrier collection length, identifying a specific geometric 'sweet spot' for maximum PCE
