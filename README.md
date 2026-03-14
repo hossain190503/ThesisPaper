@@ -58,4 +58,6 @@ The following table summarizes the performance metrics of the $CsGeIBr_2$-based 
 
 > **Note:** These results represent the simulated performance using the SCAPS-1D framework with CuI as the hole transport layer (HTL) and WS₂ as the electron transport layer (ETL).
 
+![eqe](https://github.com/hossain190503/ThesisPaper/blob/main/eqe.png?raw=true)
+
 The SCAPS-1D simulations for the optimized $CsGeIBr_2$ configuration yielded some notably high performance metrics. The power conversion efficiency ($PCE$) reached a peak of 30.24%, supported by a short-circuit current density ($J_{SC}$) of 39.07 mA/cm² and a fill factor ($FF$) of 85.47%. An open-circuit voltage ($V_{OC}$) of 0.906 V was also recorded, which appears to be quite competitive for a lead-free absorber material.While these figures suggest that $CsGeIBr_2$ has the theoretical potential to rival traditional lead-based cells, they likely represent a "best-case" scenario under idealized numerical conditions. It’s worth noting that the high $PCE$ of over 30% is a remarkable result for a simulation; however, transitioning this into a physical device will likely introduce interface challenges or material instabilities that a one-dimensional model might not fully capture. Nevertheless, these results provide a strong baseline for moving toward experimental validation.
