@@ -12,3 +12,13 @@ Once the material constants were established, I moved to SCAPS-1D (Solar Cell Ca
 ### Phase 3: Machine Learning (ML)
 ForecastingThe final phase uses Machine Learning to move beyond static simulations. Traditional modeling shows you one result for one set of inputs, but ML allows us to see the "big picture" of how different variables interact.I generated a dataset from the SCAPS-1D results, using parameters like absorber thickness and doping concentration as features. By training a regression model (such as a Random Forest or Artificial Neural Network), I was able to forecast the power conversion efficiency (PCE) across thousands of virtual iterations. This approach is particularly useful for identifying the "sweet spot" in manufacturing—for instance, determining exactly when an increase in thickness stops improving light absorption and starts hindering charge collection due to increased internal resistance. This layer of the methodology attempts to simulate the unpredictability of the fabrication process.
 
+# Result and Discussion:
+
+Based on the provided document, the Density Functional Theory (DFT) analysis of $CsGeIBr_2$ reveals a material with promising optoelectronic characteristics for photovoltaic applications. Below is a summary of the findings regarding its electronic and optical properties.
+
+### Electronic property of CsGeIBr2
+
+The electronic structure analysis confirms the semiconducting nature of $CsGeIBr_2$, which is visualized through the band structure and Density of States (DOS).
+- Bandgap Characteristics: The material possesses a direct bandgap of 1.190 eV. The fact that the conduction band minimum (CBM) and valence band maximum (VBM) occur at the same k-points is critical for efficient light absorption and reduced recombination.
+- Orbital Contributions: As shown in Fig. 3(a) and Fig. 3(b), the valence band is predominantly formed by $I\text{-}5p$ and $Br\text{-}4p$ orbitals, while the conduction band is mainly composed of $Ge\text{-}4p$ states.
+- Structural Role of Cesium: The analysis indicates that $Cs$ functions primarily as a structural stabilizer rather than an active electronic contributor, as its orbitals ($Cs\text{-}6s$) show minimal presence near the Fermi level
