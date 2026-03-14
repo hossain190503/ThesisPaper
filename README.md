@@ -23,9 +23,6 @@ The electronic structure analysis confirms the semiconducting nature of $CsGeIBr
 ![electric1](https://github.com/hossain190503/ThesisPaper/blob/main/elec1.png?raw=true)
 
 - Bandgap Characteristics: The material possesses a direct bandgap of 1.190 eV. The fact that the conduction band minimum (CBM) and valence band maximum (VBM) occur at the same k-points is critical for efficient light absorption and reduced recombination.
-
-![elctric2](https://github.com/hossain190503/ThesisPaper/blob/main/elec2.png?raw=true)
-  
 - Orbital Contributions: As shown in Fig. 3(a) and Fig. 3(b), the valence band is predominantly formed by $I\text{-}5p$ and $Br\text{-}4p$ orbitals, while the conduction band is mainly composed of $Ge\text{-}4p$ states.
 - Structural Role of Cesium: The analysis indicates that $Cs$ functions primarily as a structural stabilizer rather than an active electronic contributor, as its orbitals ($Cs\text{-}6s$) show minimal presence near the Fermi level
 
@@ -45,4 +42,20 @@ The optical analysis explores how $CsGeIBr_2$ interacts with light across the vi
 
 ![img](https://github.com/hossain190503/ThesisPaper/blob/main/fig7.png?raw=true)
   
-- Conductivity and Refractive Index: * Optical conductivity peaks at 9.35 eV, reinforcing its semiconducting behavior (Fig. 6).The real part of the refractive index peaks at 2.54 eV in the visible region, signaling strong light-matter interaction (Fig. 7).
+- Conductivity and Refractive Index: Optical conductivity peaks at 9.35 eV, reinforcing its semiconducting behavior (Fig. 6).The real part of the refractive index peaks at 2.54 eV in the visible region, signaling strong light-matter interaction (Fig. 7).
+
+  Based on the simulation data, the $CsGeIBr_2$ based solar cell achieved the following performance:
+  ## Optimized Device Performance
+
+The following table summarizes the performance metrics of the $CsGeIBr_2$-based solar cell under optimized conditions.
+
+| Metric | Symbol | Value |
+| :--- | :--- | :--- |
+| Power Conversion Efficiency | PCE | 30.24% |
+| Open-Circuit Voltage | $V_{OC}$ | 0.906 V |
+| Short-Circuit Current Density | $J_{SC}$ | 39.07 mA/cm² |
+| Fill Factor | FF | 85.47% |
+
+> **Note:** These results represent the simulated performance using the SCAPS-1D framework with CuI as the hole transport layer (HTL) and WS₂ as the electron transport layer (ETL).
+
+The SCAPS-1D simulations for the optimized $CsGeIBr_2$ configuration yielded some notably high performance metrics. The power conversion efficiency ($PCE$) reached a peak of 30.24%, supported by a short-circuit current density ($J_{SC}$) of 39.07 mA/cm² and a fill factor ($FF$) of 85.47%. An open-circuit voltage ($V_{OC}$) of 0.906 V was also recorded, which appears to be quite competitive for a lead-free absorber material.While these figures suggest that $CsGeIBr_2$ has the theoretical potential to rival traditional lead-based cells, they likely represent a "best-case" scenario under idealized numerical conditions. It’s worth noting that the high $PCE$ of over 30% is a remarkable result for a simulation; however, transitioning this into a physical device will likely introduce interface challenges or material instabilities that a one-dimensional model might not fully capture. Nevertheless, these results provide a strong baseline for moving toward experimental validation.
