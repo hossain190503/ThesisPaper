@@ -28,3 +28,21 @@ The electronic structure analysis confirms the semiconducting nature of $CsGeIBr
   
 - Orbital Contributions: As shown in Fig. 3(a) and Fig. 3(b), the valence band is predominantly formed by $I\text{-}5p$ and $Br\text{-}4p$ orbitals, while the conduction band is mainly composed of $Ge\text{-}4p$ states.
 - Structural Role of Cesium: The analysis indicates that $Cs$ functions primarily as a structural stabilizer rather than an active electronic contributor, as its orbitals ($Cs\text{-}6s$) show minimal presence near the Fermi level
+
+### Optical Properties
+The optical analysis explores how $CsGeIBr_2$ interacts with light across the visible and UV spectrums.
+
+![img](https://github.com/hossain190503/ThesisPaper/blob/main/Fig4.png?raw=true)
+
+- Dielectric Function: Illustrated in Fig. 4, the real and imaginary parts of the dielectric function highlight the material's polarization and energy loss. The optical bandgap is determined to be 1.55 eV, slightly higher than the electronic gap due to exciton binding energy.
+
+![img](https://github.com/hossain190503/ThesisPaper/blob/main/fig5.png?raw=true)
+  
+- Absorption Coefficient: As shown in Fig. 5(e) and Fig. 5(f), effective light absorption begins at 1.55 eV. The material reaches a maximum absorption coefficient of $18.88 \times 10^4 \text{ cm}^{-1}$ in the 14.27 eV range, indicating it is highly efficient at capturing photon energy.
+- Reflectivity and Loss Function: Reflectivity remains comparatively low (maximum 0.23), which suggests that most incident light is absorbed rather than reflected. The loss function, shown in Fig. 5(c), identifies a plasma frequency at 17.49 eV, beyond which the material becomes transparent.
+
+![img](https://github.com/hossain190503/ThesisPaper/blob/main/fig6.png?raw=true)
+
+![img](https://github.com/hossain190503/ThesisPaper/blob/main/fig7.png?raw=true)
+  
+- Conductivity and Refractive Index: * Optical conductivity peaks at 9.35 eV, reinforcing its semiconducting behavior (Fig. 6).The real part of the refractive index peaks at 2.54 eV in the visible region, signaling strong light-matter interaction (Fig. 7).
