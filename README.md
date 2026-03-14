@@ -65,6 +65,20 @@ The SCAPS-1D simulations for the optimized $CsGeIBr_2$ configuration yielded som
 ### Machine learning result
 #### Performance forecasting via machine learning
 
+![](https://github.com/hossain190503/ThesisPaper/blob/main/fig9.png?raw=true)
 
+Analysis of the absorber layer parameters indicates that device efficiency is most sensitive to doping concentration, followed by layer thickness, while remaining relatively stable under minor bandgap fluctuations. The high dependency on doping highlights the importance of precise charge carrier management to maximize $V_{OC}$ without inducing excessive recombination. Meanwhile, the thickness optimization reflects a critical trade-off between optical absorption and carrier collection length, identifying a specific geometric 'sweet spot' for maximum PCE.
 
-Analysis of the absorber layer parameters indicates that device efficiency is most sensitive to doping concentration, followed by layer thickness, while remaining relatively stable under minor bandgap fluctuations. The high dependency on doping highlights the importance of precise charge carrier management to maximize $V_{OC}$ without inducing excessive recombination. Meanwhile, the thickness optimization reflects a critical trade-off between optical absorption and carrier collection length, identifying a specific geometric 'sweet spot' for maximum PCE
+### Summary 
+
+This research presents a systematic, three-phase approach to developing high-efficiency, lead-free solar technology using CsGeIBr₂ as the central absorber material.
+
+The findings can be summarized across three primary areas of investigation:
+
+- Material Validation (DFT): The study began with first-principles calculations to confirm the fundamental suitability of CsGeIBr₂. The results suggest that the material possesses the necessary electronic including a direct bandgap and high charge carrier mobility—to serve as a viable candidate for photovoltaic applications.
+
+- Device Optimization (SCAPS-1D): By modeling the physical device architecture, the research identified an optimal stack using CuI as the hole transport layer and $WS_2$ as the electron transport layer. This specific configuration appears to be highly effective, yielding a theoretical power conversion efficiency (PCE) of 30.24%, supported by a strong fill factor of 85.47%.
+
+- Performance Forecasting (ML): To move beyond static models, a machine learning layer was integrated to predict how the cell behaves under varying manufacturing conditions. By analyzing the impact of absorber thickness and doping levels, the ML model provides a clearer understanding of how to maintain efficiency during the actual fabrication process.
+
+Ultimately, the work identifies a high-performing material combination and establishes a predictive framework that could help bridge the gap between theoretical modeling and the large-scale production of sustainable solar cells.
